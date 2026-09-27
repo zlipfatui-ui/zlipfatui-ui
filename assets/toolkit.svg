@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Toolkit</title>
+  <desc id="desc">Four large tiles for TypeScript, JavaScript, HTML, and CSS.</desc>
+  <rect width="1200" height="390" rx="22" fill="#111316"/>
+  <text x="42" y="46" fill="#e8e8df" font-family="Consolas, monospace" font-size="24" font-weight="700" letter-spacing="2">TOOLS I REACH FOR</text>
+
+  <rect x="42" y="70" width="545" height="139" rx="12" fill="#1c242d" stroke="#394a5e"/>
+  <rect x="61" y="89" width="101" height="101" rx="9" fill="#3178c6"/>
+  <text x="82" y="157" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700">TS</text>
+  <text x="188" y="155" fill="#f5f5ee" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">TypeScript</text>
+
+  <rect x="613" y="70" width="545" height="139" rx="12" fill="#29271d" stroke="#55513a"/>
+  <rect x="632" y="89" width="101" height="101" rx="9" fill="#f7df1e"/>
+  <text x="652" y="157" fill="#171717" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700">JS</text>
+  <text x="759" y="155" fill="#f5f5ee" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">JavaScript</text>
+
+  <rect x="42" y="228" width="545" height="139" rx="12" fill="#2c211e" stroke="#624239"/>
+  <rect x="61" y="247" width="101" height="101" rx="9" fill="#e34f26"/>
+  <text x="70" y="312" fill="#fff" font-family="Consolas, monospace" font-size="35" font-weight="700">&lt;/&gt;</text>
+  <text x="188" y="313" fill="#f5f5ee" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">HTML</text>
+
+  <rect x="613" y="228" width="545" height="139" rx="12" fill="#1c2630" stroke="#344c62"/>
+  <rect x="632" y="247" width="101" height="101" rx="9" fill="#1572b6"/>
+  <text x="654" y="313" fill="#fff" font-family="Consolas, monospace" font-size="44" font-weight="700">{}</text>
+  <text x="759" y="313" fill="#f5f5ee" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">CSS</text>
+</svg>
